@@ -195,6 +195,32 @@ A grappler holding a target with a dagger can reasonably angle the dagger
 away with their free hand. The target keeps the dagger but cannot use it
 well. This is what the -4 represents.
 
+### Breaking the Hold with a Weapon
+
+A beneficial position is not a life sentence. A grappler who holds the edge
+(Dominant, or on top in the Ground) can turn the hold into one weapon action
+at any time.
+
+- **Pull a weapon**: make a DEX check and use a free hand. On success, draw
+  the weapon. The hold breaks and normal combat resumes.
+- **Strike with a weapon**: make a DEX check and use a hand holding a
+  weapon. On success, attack with that weapon, adding the bonus your
+  current beneficial position grants you in the wrestling.
+
+Either action immediately breaks the wrestling and returns to normal
+combat. The hold grants exactly one weapon attack, never more. A wrestle
+that keeps running to farm the bonus is a wrestle the table should end.
+
+> Design note: this is not perfectly realistic, but it stops a hold from
+> being farmed for ongoing benefits. One strike with the position's bonus,
+> then the fight goes back to normal.
+
+If the benefit is +4 or higher (Master rank and above), the strike counts
+as an attack against a surprised or unaware target for damage multipliers.
+Any class with such a multiplier (for example, the Assassin) applies it: a
+Master wrestler can hold a mark, draw a blade, and let the multiplier do
+the work.
+
 ## Silent Work
 
 Wrestling is also the art of the quiet kill. A guard outside a cell, a

@@ -4,15 +4,15 @@
 
 ### Sage
 
-**Requirements**: Intelligence 13 or higher, Wisdom 9 or higher.
-**Prime Requisites**: Intelligence and Wisdom. If Intelligence is 16 or higher and Wisdom is 13 or higher; an additional +5% if both are met.
-**Hit Dice**: d6.
-**Armor**: Leather armor only; no shields.
-**Weapons**: Staff, dagger, sling.
-**Attack Progression**: Mage group (+5 at 14th level). See Class Rework.
-**Saving Throws**: See the Sage save table below.
-**Experience Progression**: As Thief (fast progression). The Sage earns levels through fieldwork, applied scholarship, and survival, not through the long isolated study that spellcasters endure.
-**Alignment**: Any, predominantly Neutral.
+- **Requirements**: Intelligence 15 or higher, Wisdom 11 or higher. Where most Advanced classes ask 13/13, the Sage asks 15/11: a sharper mind and a steadier will.
+- **Prime Requisites**: Intelligence and Wisdom. If Intelligence is 16 or higher and Wisdom is 13 or higher; an additional +5% if both are met.
+- **Hit Dice**: d6.
+- **Armor**: Leather armor only; no shields.
+- **Weapons**: Staff, dagger, sling.
+- **Attack Progression**: Mage group (+5 at 14th level). See Class Rework.
+- **Saving Throws**: See the Sage save table below.
+- **Experience Progression**: As Thief (fast progression). The Sage earns levels through fieldwork, applied scholarship, and survival, not through the long isolated study that spellcasters endure.
+- **Alignment**: Any, predominantly Neutral.
 
 ### Sage XP Progression
 
