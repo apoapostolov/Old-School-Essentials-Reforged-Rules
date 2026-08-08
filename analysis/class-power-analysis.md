@@ -1270,3 +1270,118 @@ The downtime systems are **excellent at reinforcing class fantasy** without crea
 **No class is locked out** of either system, but each class has a **natural economic home**. This is elegant design.
 
 **Next step:** Create a **Downtime Quick-Reference** table showing each class's optimal gold allocation for sustainable play.
+
+---
+
+## New Classes
+
+### Sage - B+ Tier
+
+| Class  | Combat | Utility | Scaling | Autonomy | Entry | **Overall** |
+| ------ | ------ | ------- | ------- | -------- | ----- | ----------- |
+| **Sage** | C | S | A | B | Moderate | **B+** |
+
+**Strengths:**
+
+- **Keen Observation** is the Sage's defining feature: at L1, a standard
+  action reveals a foe's weakness, granting all allies +1 to hit for 1
+  round per Sage level. This scales to +1 attack/+1 damage against 2 foes
+  at L5, and +1 attack/+2 damage against a group at L9. No other class
+  provides party-wide tactical buffs of this kind.
+- **Medical Prowess** stabilizes dying characters with a Medicine skill
+  roll, granting +1 to +3 on the death Constitution check and restoring
+  1d3 hp. This is the strongest non-magical healing in the game.
+- **Lore and Erudite Sense** give the Sage near-caster utility without
+  spells: identifying items, revealing monster properties, and uncovering
+  exploits that grant +1 to any check, attack, or save.
+- **Thief XP progression** means the Sage levels as fast as a rogue,
+  reaching tier 2 and tier 3 powers quickly.
+- **Bonus lore skill slots** every 2 levels make the Sage the premier
+  skill-monkey for knowledge, science, and scholarly expertise.
+
+**Weaknesses:**
+
+- **Combat Power is weak.** The Sage has d6 HD, leather armor only, Mage
+  attack progression (+5 at 14), and 3 weapons (staff, dagger, sling).
+  Precise Strikes (INT to hit and damage) helps accuracy but does not fix
+  the fragility or low damage output. The Sage's combat contribution is
+  almost entirely through Keen Observation, not personal attacks.
+- **Save profile is poor on physical hazards.** Paralysis/Petrify (14 at
+  L1) and Breath (15 at L1) are among the worst in the game. The Sage
+  dies to dragon breath, traps, and area effects more readily than any
+  class except the Magic-User.
+- **No magical utility.** The Sage cannot cast spells, detect magic, or
+  counter magical threats directly. Arcane Sense, Read Magic, and
+  anti-magic measures are all unavailable.
+
+**House Rules Impact:**
+
+- Improves: Thief XP progression makes the Sage viable early instead of
+  slogging through slow caster XP. The expanded skill system gives the
+  Sage 40+ general skills to fill with bonus slots. Keen Observation
+  scales into a party-wide force multiplier at higher levels.
+- Diminishes: The CON-based death system punishes the Sage's poor
+  physical saves. A single failed Breath or Paralysis save can put the
+  Sage at 0 hp with Constitution damage, and his Medicine skill cannot
+  be used on himself while dying.
+
+**Scaling:** C-tier at L1 to 4 (weak personal combat, Keen Observation
+is 1 target/round). A-tier at L5 to 8 (dual observation, +damage buffs,
+Medical Prowess at +2). A-tier at L9+ (group observation, free passive
+observation, Savant rally, Medical Prowess at +3). The scaling curve is
+smooth but never reaches the warping power of a high-level Magic-User.
+
+**Autonomy:** Moderate. The Sage does not depend on spell slots or
+consumables, but is fragile and needs a frontline to function. Keen
+Observation requires enemies to study, so it is useless in social or
+exploration encounters. The Sage thrives in a party and struggles alone.
+
+**Verdict:** The Sage fills a gap no other class covers: a non-magical
+intellectual who makes the entire party better through knowledge. The
+tier ceiling is B+ because the Sage cannot carry combat alone and has
+real survivability problems. But in a party with a Fighter and a Cleric,
+the Sage amplifies their effectiveness more than any third member could.
+
+---
+
+## Complete Class Grading Table
+
+All classes, sorted by overall tier. The Sage is included.
+
+| Class          | Combat | Utility | Scaling | Autonomy | Entry  | **Overall** |
+| -------------- | ------ | ------- | ------- | -------- | ------ | ----------- |
+| **Fighter**    | S      | C       | A       | A        | Easy   | **A+**      |
+| **Elf**        | A      | A       | A       | B        | Hard   | **A**       |
+| **Cleric**     | A      | A       | A       | B        | Easy   | **A**       |
+| **Drow**       | A      | A       | A       | B        | Hard   | **A**       |
+| **Paladin**    | A      | A       | A       | B        | Hard   | **A**       |
+| **Magic User** | B to S | A       | S       | C        | Easy   | **A-**      |
+| **Dwarf**      | A      | B       | B       | A        | Hard   | **A-**      |
+| **Ranger**     | B to S | A       | A       | B        | Hard   | **A-**      |
+| **Assassin**   | B to S | A       | A       | C        | Hard   | **A-**      |
+| **Barbarian**  | A      | B       | B       | A        | Hard   | **A-**      |
+| **Thief**      | C      | S       | B       | B        | Easy   | **B+**      |
+| **Sage**       | C      | S       | A       | B        | Mod    | **B+**      |
+| **Gnome**      | B      | B       | B       | B        | Hard   | **B+**      |
+| **Svirnefblin**| B      | B       | B       | C        | Hard   | **B+**      |
+| **Half-Orc**   | B      | B       | B       | A        | Hard   | **B+**      |
+| **Knight**     | B      | B       | B       | A        | Hard   | **B+**      |
+| **Acrobat**    | B      | B       | B       | B        | Hard   | **B+**      |
+| **Druid**      | B      | A       | B       | C        | Hard   | **B+**      |
+| **Bard**       | C      | A       | B       | B        | Hard   | **B+**      |
+| **Illusionist**| C      | A       | A       | C        | Hard   | **B+**      |
+| **Duergar**    | B      | B       | B       | C        | Hard   | **B+**      |
+| **Halfling**   | B      | B       | B       | A        | Hard   | **B+**      |
+| **Half-Elf**   | B      | B       | B       | B        | Hard   | **B+**      |
+
+### Tier Summary
+
+| Tier | Classes |
+|------|---------|
+| **S** | None |
+| **A+** | Fighter |
+| **A** | Elf, Cleric, Drow, Paladin |
+| **A-** | Magic User, Dwarf, Ranger, Assassin, Barbarian |
+| **B+** | Thief, Sage, Gnome, Svirnefblin, Half-Orc, Knight, Acrobat, Druid, Bard, Illusionist, Duergar, Halfling, Half-Elf |
+| **B** | None |
+| **C** | None |

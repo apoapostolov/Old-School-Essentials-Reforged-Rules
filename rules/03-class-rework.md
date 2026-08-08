@@ -20,7 +20,7 @@ Attack roll use the formula: __d20 + Attack Bonus + STR (melee) or DEX (ranged) 
 | -------------- | ----------------- | -------------------------------------------------------------------------- |
 | __Warrior__    | +9                | Fighter, Dwarf, Elf, Barbarian, Duergar, Half-Orc, Knight, Paladin, Ranger |
 | __Adventurer__ | +7                | Cleric, Druid, Drow, Thief, Halfling, Acrobat, Assassin, Bard, Half-Elf    |
-| Mage           | +5                | Magic-User, Gnome, Illusionist, Svirfneblin, Sage                          |
+| Sage           | +5                | Magic-User, Gnome, Illusionist, Svirfneblin, Sage                          |
 
 | Level | Warrior Group (+9 at 14) | Adventurer Group (+7 at 14) | Mage Group (+5 at 14) |
 | ----- | ------------------------ | --------------------------- | --------------------- |

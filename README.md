@@ -73,9 +73,9 @@ spot pressure points, and tune the system for their table.
 - [Environment](rules/08-environment.md)
 - [XP and Downtime](rules/09-xp-and-downtime.md)
 
-### Subsystems
+### Additional Content
 
-- [New Classes](subsystems/new-classes.md)
+- [New Classes](additional-content/new-classes.md)
 
 ### Appendix
 
