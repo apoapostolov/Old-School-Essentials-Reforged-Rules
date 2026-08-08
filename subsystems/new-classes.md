@@ -9,9 +9,58 @@
 **Hit Dice**: d6.
 **Armor**: Leather armor only; no shields.
 **Weapons**: Staff, dagger, sling.
-**Saving Throws**: As Magic-User.
-**Experience Progression**: Use the Illusionist table.
+**Attack Progression**: Mage group (+5 at 14th level). See Class Rework.
+**Saving Throws**: See the Sage save table below.
+**Experience Progression**: As Thief (fast progression). The Sage earns levels through fieldwork, applied scholarship, and survival, not through the long isolated study that spellcasters endure.
 **Alignment**: Any, predominantly Neutral.
+
+### Sage XP Progression
+
+The Sage uses Thief XP values. The x10 accelerated XP economy means these thresholds are divided by 10 from the original B/X Thief table.
+
+| Level | XP Required |
+|-------|-------------|
+| 1     | 0           |
+| 2     | 120         |
+| 3     | 240         |
+| 4     | 480         |
+| 5     | 900         |
+| 6     | 1,500       |
+| 7     | 2,400       |
+| 8     | 3,600       |
+| 9     | 6,000       |
+| 10    | 12,000      |
+| 11    | 24,000      |
+| 12    | 48,000      |
+| 13    | 90,000      |
+| 14    | 180,000     |
+
+### Sage Saving Throws
+
+The Sage has a custom save profile built around his purpose: a scholar,
+healer, and field advisor. His medical training makes him resilient against
+death and poison. His intellectual discipline gives him a firm defense
+against spells and mental effects. His physical conditioning is poor: he is
+bookish, not athletic, so Breath and Petrification saves lag behind.
+
+| Level | Death / Poison | Wands | Paralysis / Petrify | Breath | Spells |
+|-------|----------------|-------|---------------------|--------|--------|
+| 1-3   | 11             | 12    | 14                  | 15     | 12     |
+| 4-6   | 10             | 11    | 13                  | 14     | 11     |
+| 7-9   | 9              | 10    | 12                  | 13     | 10     |
+| 10-12 | 8              | 9     | 11                  | 12     | 9      |
+| 13-14 | 7              | 8     | 10                  | 11     | 8      |
+
+Design notes:
+
+- Death/Poison is the Sage's best save. Medical knowledge means he
+  understands toxins, infection, and trauma better than any non-Cleric.
+- Spells is his second best. A career of study builds mental discipline
+  against magical influence and charm.
+- Paralysis/Petrify and Breath are his worst saves. The Sage is not
+  athletic or quick; physical hazards hit him hard.
+- The progression improves by 1 per tier (every 3 levels) across all
+  categories, keeping the relative strengths consistent.
 
 The Sage is a dedicated scholar, healer, and inventor who brings intellectual mastery to adventuring. Through careful observation, deep lore, skilled medicine, appraisal of treasures, and clever craftsmanship, the Sage supports the party by revealing hidden truths, directing combat advantages, stabilizing the fallen with expert care, and creating useful tools. Unlike spellcasters, the Sage relies entirely on non-magical knowledge and preparation, making them a vital advisor in exploration, combat, and downtime.
 
