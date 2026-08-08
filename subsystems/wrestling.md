@@ -135,6 +135,7 @@ everything, including the Choke Hold that ends fights.
 | BS | Trip | On hit, target falls prone. You stay standing. A target that fails a save vs Breath may be _dazed_ (see below). |
 | SK | Pin | From Dominant: on hit, target is pinned: cannot act, you cannot move. Escape needs a margin 3+ better than yours. |
 | SK | Headlock | From Dominant: on hit, target cannot speak or cast verbal spells and is at -2 to hit. Escape checks at -2. |
+| SK | Mouth-Hold | One hand on the mouth: the target cannot speak or make deliberate noise. -2 to hit and -2 AC against you. Escape is opposed STR; an escaped target cries out. See Silent Work. |
 | EX | Throw | From Dominant or a hold: release the target and hurl them 1d4 x 5 feet. They take 1d6 damage and land prone. You stay standing. |
 | EX | Takedown | From Clinch: on hit, both fighters fall to the Ground, you on top. You are dominant for ground techniques. |
 | MS | Joint Lock | Held target takes 1d2 subdual damage per round automatically until they escape. No action required from you. |
@@ -194,6 +195,104 @@ A grappler holding a target with a dagger can reasonably angle the dagger
 away with their free hand. The target keeps the dagger but cannot use it
 well. This is what the -4 represents.
 
+## Silent Work
+
+Wrestling is also the art of the quiet kill. A guard outside a cell, a
+sentry on a wall, a sleeper in an inn: the hold is the oldest way to end
+such a life without raising the alarm. This section covers the three
+silent tools: the surprise choke, the mouth-hold, and the kill that
+follows them.
+
+### The Surprise Choke
+
+A choke applied before the target knows a fight has started. It requires
+a Wrestling attack against a target that cannot react: surprised, asleep,
+or otherwise unaware. The DM decides when the target qualifies, usually
+after a successful Move Silently check or a surprise roll.
+
+- The attack ignores the target's AC from shields and active dodging.
+  Armour still counts; you are still grabbing throat under a helm.
+- On a hit, resolve as a Choke Hold from the Grand Master table, but the
+  target's first escape check is at -4: they are choking on reflex, not
+  fighting.
+- A surprised choke makes no sound while it lands. The target cannot cry
+  out in the round the choke lands.
+- From the round after, resolve the choke normally: CON rounds until
+  unconscious, opposed STR each round to maintain.
+
+A choke that takes hold silently turns the target's air into a timer.
+Unconsciousness in CON rounds, and a body that tells no tales. If the
+attacker wants the target dead instead of unconscious, the kill below is
+clean from a choked target.
+
+### The Mouth-Hold
+
+One hand over the mouth, the other across the jaw or throat. The target
+cannot speak, shout, sing, or cast spells with a verbal component. This
+is the tool for the moment before the kill: it buys silence while the
+blade comes out.
+
+- Requires a Wrestling attack against a target within arm's reach. A
+  surprised or held target is at -4 to resist.
+- On a hit, the target is _mouth-held_: no speech, no verbal casting, no
+  calling for help. The target may still struggle, move, and attack with
+  one hand.
+- Escape is opposed roll-under STR, as normal. On an escape, the target
+  can shout immediately: the alarm goes up.
+- A mouth-held target can still bite: on a natural 20 escape roll or a
+  deliberately spent action, they bite the covering hand for 1d2 damage.
+  The mouth-hold breaks; the bite may draw attention with a save vs Breath
+  from the target's own pain.
+
+The mouth-hold does not end the fight. It ends the alarm. The kill must
+follow quickly, because every round the target stays alive is a round
+they might bite, twist, or break free.
+
+### The Quiet Kill
+
+From a choke or a mouth-hold, a killing blow can be silent. The attacker
+needs a free hand and a blade: dagger, short sword, garotte, or a weapon
+the DM considers sharp and small. A knife to the throat or a garotte
+around the windpipe does the work.
+
+- A choked or mouth-held target can be killed without a further roll if
+  the attacker has a blade free. The target cannot cry out: their air and
+  voice are already controlled.
+- The kill deals the weapon's normal damage plus the Choke Hold or
+  mouth-hold control. A target reduced to 0 hp dies silently.
+- If the target is at full health and armour protects the throat, the DM
+  may require an attack roll anyway: the kill is not automatic through a
+  gorget or helm.
+- Killing with the hands alone (a snap, a twist) requires the Grand
+  Master Choke Hold rank and an opposed STR check against the target.
+  On success, the neck breaks and the target dies instantly. On failure,
+  the target escapes the hold and can cry out.
+
+A dead target makes no noise. That is the entire point of Silent Work:
+the sentry falls, the patrol passes, and nobody wakes. The corpse is the
+only witness, and corpses do not talk.
+
+> Design note: silence is a resource, not a free action. The surprise
+> choke costs a check to get close, the mouth-hold costs a check to land,
+> and the kill itself can fail. Every step is a chance for the alarm.
+> This is why stealth kills stay tense: the player commits three rolls to
+> a quiet death and any one of them can turn the scene loud.
+
+### Alarm and Detection
+
+Silent Work only matters if the alarm stays down. When a quiet kill or
+hold fails, resolve the consequence with the normal rules:
+
+- A target that escapes a mouth-hold or choke can shout in the same
+  round. Creatures within 60 feet (or through a door, at the DM's call)
+  hear and investigate.
+- A kill that requires an attack roll and misses makes noise: the blade
+  scrapes, the target jerks, the struggle draws attention. Anyone nearby
+  gets a surprise roll or a listen check, per the DM.
+- A body discovered later raises the alarm just as well as a shout. The
+  kill may be silent, but the corpse is not invisible. The party's clock
+  starts the moment the guard is missed.
+
 ## Creatures That Wrestle
 
 Monsters do not follow human technique. They follow appetite. These hooks
@@ -207,6 +306,13 @@ replace the human rules where they apply.
 | Wolf, dire wolf | Bite-and-hold: on a hit, the target is held. Packmates gain +2 to hit the held target. |
 | Ooze, slime | Cannot be grappled, pinned, or held. It flows through grips. Melee against it while it engulfs you is at -4. |
 | Construct | As undead for eyes, ears, breath, and pain. It also cannot be Joint Locked or submitted; it has no joints worth locking. |
+
+Silent Work against the undead and constructs fails at the choke: they do
+not breathe, so the surprise choke and the quiet kill through the throat
+do nothing. A construct's eyes are not a mouth. A skeleton does not need
+air. The quiet kill against such creatures requires a blade to the
+structure itself, and the DM should rule the sound consequences
+accordingly: a skeleton does not bleed, but its bones rattle.
 
 > Design note: every hook exists to make one scene play differently at the
 > table. The undead hook makes the party's wrestler the wrong answer to a

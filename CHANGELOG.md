@@ -5,7 +5,7 @@ recorded here.
 
 ## [Unreleased]
 
-## 2026-08-08 - Wrestling Subsystem
+## 2026-08-08 - v2.0.1 - Wrestling Subsystem
 
 - Added the *Wrestling* subsystem: a full close-combat game on top of the
   Weapon Mastery Wrestling track. Covers hold and escape procedures, the
@@ -15,9 +15,14 @@ recorded here.
   eyes, hair grip, ear clap), weapon length rules inside a hold, monster
   grapple hooks (undead, bears, giants, wolves, oozes), and cultural
   wrestling styles including the three Skanian Glima grips.
+- Extended with *Silent Work*: stealth wrestling for quiet kills and alarm
+  prevention. Surprise choke (first escape check at -4, silent landing,
+  CON-round timer), mouth-hold (no speech, no verbal casting, bite escape),
+  quiet kill (blade free hand, garotte, neck-snap), alarm and detection
+  rules, and undead/construct notes.
 - Design basis: the 2026-08-08 subdual and wrestling design brief
   (CON exhaustion pool, pin initiative, unarmed damage ladder) extended
-  with positional and dirty-tactics depth.
+  with positional, dirty-tactics, and stealth depth.
 
 ## 2026-08-08 - Public Edition (v2.0.0)
 
