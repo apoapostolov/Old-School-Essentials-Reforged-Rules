@@ -5,13 +5,6 @@ recorded here.
 
 ## [Unreleased]
 
-- Wrestling: Breaking the Hold with a Weapon. A grappler with a beneficial position (Dominant, or on top in the Ground) may make a DEX check to pull a weapon with a free hand, or strike with a held weapon adding the position bonus. The hold breaks immediately and normal combat resumes; one weapon attack max. At +4 or higher (Master+), the strike applies damage multipliers vs surprised or unaware targets (Assassin synergy).
-- Sage: Requirements raised to Intelligence 15, Wisdom 11 (where most Advanced classes ask 13/13). Class header converted to a bullet list.
-
-- Sage: Sage Skills table row titles now match the power names below (Observation becomes Keen Observation, Medicine becomes Medical Prowess).
-
-- Sage: Keen Observation now uses a Turn Undead-style rank table instead of a raw Hit Dice comparison. The Sage makes an Intelligence check modified by foe rank and Sage level; ranks progress from common folk to crowned heads; monster Hit Dice convert to rank.
-
 ## 2026-08-08 - v2.0.1 - Wrestling Subsystem
 
 - Added the *Wrestling* subsystem: a full close-combat game on top of the
@@ -30,6 +23,20 @@ recorded here.
 - Design basis: the 2026-08-08 subdual and wrestling design brief
   (CON exhaustion pool, pin initiative, unarmed damage ladder) extended
   with positional, dirty-tactics, and stealth depth.
+- Breaking the Hold with a Weapon: a grappler with a beneficial position
+  (Dominant, or on top in the Ground) may make a DEX check to pull a weapon
+  with a free hand, or strike with a held weapon adding the position bonus.
+  The hold breaks immediately and normal combat resumes; one weapon attack
+  max. At +4 or higher (Master+), the strike applies damage multipliers vs
+  surprised or unaware targets (Assassin synergy).
+- Sage: Keen Observation now uses a Turn Undead-style rank table instead of
+  a raw Hit Dice comparison. The Sage makes an Intelligence check modified
+  by foe rank and Sage level; ranks progress from common folk to crowned
+  heads; monster Hit Dice convert to rank.
+- Sage: Sage Skills table row titles now match the power names below
+  (Observation becomes Keen Observation, Medicine becomes Medical Prowess).
+- Sage: Requirements raised to Intelligence 15, Wisdom 11 (where most
+  Advanced classes ask 13/13). Class header converted to a bullet list.
 
 ## 2026-08-08 - Public Edition (v2.0.0)
 
