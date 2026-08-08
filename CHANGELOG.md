@@ -5,6 +5,20 @@ recorded here.
 
 ## [Unreleased]
 
+## 2026-08-08 - Wrestling Subsystem
+
+- Added the *Wrestling* subsystem: a full close-combat game on top of the
+  Weapon Mastery Wrestling track. Covers hold and escape procedures, the
+  Clinch/Dominant/Ground position system, a CON-keyed exhaustion pool with a
+  three-level penalty ladder, the pin initiative sub-event, Techniques
+  (Trip, Headlock, Takedown), dirty tactics (bite, headbutt, sand in the
+  eyes, hair grip, ear clap), weapon length rules inside a hold, monster
+  grapple hooks (undead, bears, giants, wolves, oozes), and cultural
+  wrestling styles including the three Skanian Glima grips.
+- Design basis: the 2026-08-08 subdual and wrestling design brief
+  (CON exhaustion pool, pin initiative, unarmed damage ladder) extended
+  with positional and dirty-tactics depth.
+
 ## 2026-08-08 - Public Edition (v2.0.0)
 
 - Published the ruleset as a standalone public repository with a chapter

@@ -77,6 +77,10 @@ spot pressure points, and tune the system for their table.
 
 - [New Classes](additional-content/new-classes.md)
 
+### Subsystems
+
+- [Wrestling](subsystems/wrestling.md)
+
 ### Appendix
 
 - [Ability Score Descriptors](appendix/ability-score-descriptors.md)
