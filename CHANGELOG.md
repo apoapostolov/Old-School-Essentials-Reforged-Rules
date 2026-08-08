@@ -5,6 +5,8 @@ recorded here.
 
 ## [Unreleased]
 
+- Sage: Sage Skills table row titles now match the power names below (Observation becomes Keen Observation, Medicine becomes Medical Prowess).
+
 - Sage: Keen Observation now uses a Turn Undead-style rank table instead of a raw Hit Dice comparison. The Sage makes an Intelligence check modified by foe rank and Sage level; ranks progress from common folk to crowned heads; monster Hit Dice convert to rank.
 
 ## 2026-08-08 - v2.0.1 - Wrestling Subsystem

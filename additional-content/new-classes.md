@@ -69,8 +69,8 @@ The Sage is a dedicated scholar, healer, and inventor who brings intellectual ma
 | Skill | Description (On Successful Roll) |
 | --------------- | --------------------------------- |
 | **Lore** | The Sage identifies monsters, items, or terrain features, revealing history, properties, and a minor exploit that provides +1 to one Reaction check, Score check, Skill check, Attack roll, or Saving throw. |
-| **Observation** | In combat, the Sage spends a standard action to analyze a foe. On success (an Intelligence check against the foe's rank, see Keen Observation), a weakness is revealed, granting allies bonus to hit and damage against that target for the duration listed in Keen Observation. |
-| **Medicine** | The Sage treats wounds or stabilizes the dying with surgical precision, lowering the damaging effect to Constitution. See Medical Prowess for stabilization details. |
+| **Keen Observation** | In combat, the Sage spends a standard action to analyze a foe. On success (an Intelligence check against the foe's rank, see Keen Observation), a weakness is revealed, granting allies bonus to hit and damage against that target for the duration listed in Keen Observation. |
+| **Medical Prowess** | The Sage treats wounds or stabilizes the dying with surgical precision, lowering the damaging effect to Constitution. See Medical Prowess for stabilization details. |
 | **Appraisal** | The Sage accurately values gems, art, or gear; detects forgeries or non-magical traps; and has a chance to notice hidden compartments or loot. |
 | **Craft** | The Sage builds or repairs tools and gadgets (for example, an oil slick that creates a -2 Armor Class penalty setup area). |
 
