@@ -2,6 +2,8 @@
 
 This document provides descriptive summaries for Dungeons & Dragons ability score ranges. Each section lists score ranges, the corresponding modifier, and a short in-world description suitable for use in character creation or roleplaying guidance.
 
+These descriptors were designed to be used as snippets in templated AI image generation prompts. By combining the description snippets from all six ability scores, you can generate a character portrait that visually matches the dice roll results. For example, a character with Strength 16, Dexterity 8, and Constitution 14 would use the Strength, Dexterity, and Constitution snippets together to produce a portrait of a muscular but sluggish, sturdy build.
+
 ## Strength
 
 | Score | Modifier | Description (image-prompt snippet) |
