@@ -5,6 +5,8 @@ recorded here.
 
 ## [Unreleased]
 
+- Sage: Keen Observation now uses a Turn Undead-style rank table instead of a raw Hit Dice comparison. The Sage makes an Intelligence check modified by foe rank and Sage level; ranks progress from common folk to crowned heads; monster Hit Dice convert to rank.
+
 ## 2026-08-08 - v2.0.1 - Wrestling Subsystem
 
 - Added the *Wrestling* subsystem: a full close-combat game on top of the

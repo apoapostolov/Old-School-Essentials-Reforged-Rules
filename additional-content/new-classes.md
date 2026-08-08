@@ -69,7 +69,7 @@ The Sage is a dedicated scholar, healer, and inventor who brings intellectual ma
 | Skill | Description (On Successful Roll) |
 | --------------- | --------------------------------- |
 | **Lore** | The Sage identifies monsters, items, or terrain features, revealing history, properties, and a minor exploit that provides +1 to one Reaction check, Score check, Skill check, Attack roll, or Saving throw. |
-| **Observation** | In combat, the Sage spends a standard action to analyze a foe. On success (checked against the foe's Hit Dice or equivalent rank), a weakness is revealed, granting allies bonus to hit and damage against that target for the duration listed in Keen Observation. |
+| **Observation** | In combat, the Sage spends a standard action to analyze a foe. On success (an Intelligence check against the foe's rank, see Keen Observation), a weakness is revealed, granting allies bonus to hit and damage against that target for the duration listed in Keen Observation. |
 | **Medicine** | The Sage treats wounds or stabilizes the dying with surgical precision, lowering the damaging effect to Constitution. See Medical Prowess for stabilization details. |
 | **Appraisal** | The Sage accurately values gems, art, or gear; detects forgeries or non-magical traps; and has a chance to notice hidden compartments or loot. |
 | **Craft** | The Sage builds or repairs tools and gadgets (for example, an oil slick that creates a -2 Armor Class penalty setup area). |
@@ -95,7 +95,28 @@ This makes the Sage the party's premier repository of specialized knowledge, abl
 The Sage may concentrate for one turn (10 minutes) on a held item or a 30-foot area. Roll the Lore skill. On success, the Sage gains non-magical information about the subject (history, properties, construction) and a hint toward a minor exploit if applicable.
 
 **Keen Observation**
-In combat, the Sage may take a standard action to study an enemy, rolling the Observation skill against the target's Hit Dice or equivalent rank. On success, the Sage reveals a vulnerability, granting the listed benefits to all allies attacking that target. The Sage shares verbal insights freely, allowing allies to apply minor exploits (for example, "strike the joint-flank for -2 Armor Class penalty next turn").
+In combat, the Sage may take a standard action to study an enemy. The Sage makes an Intelligence check: roll 1d20 and succeed on a result equal to or under the Sage's Intelligence plus the modifier for the foe's rank and the Sage's level (see the tables below). On success, the Sage reveals a vulnerability, granting the listed benefits to all allies attacking that target. The Sage shares verbal insights freely, allowing allies to apply minor exploits (for example, "strike the joint-flank for -2 Armor Class penalty next turn").
+
+| Rank | Examples | Hit Dice |
+| --- | --- | --- |
+| Common folk | laborers, servants, farmers, shopkeepers | up to 1 |
+| Town folk | merchants, artisans, sailors, guards | 1-2 |
+| Men of arms | soldiers, veterans, watchmen | 2-3 |
+| Men of station | knights, clergy, magistrates, guildmasters | 3-4 |
+| Men of power | generals, spymasters, high priests, barons | 4-6 |
+| Crowned heads | kings, archmagi, dragons | 7+ |
+
+| Sage Level | Common folk | Town folk | Men of arms | Men of station | Men of power | Crowned heads |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1-2 | +2 | 0 | -2 | -4 | -6 | - |
+| 3-4 | +3 | +1 | -1 | -3 | -5 | -7 |
+| 5-6 | +4 | +2 | 0 | -2 | -4 | -6 |
+| 7-8 | +5 | +3 | +1 | -1 | -3 | -5 |
+| 9-10 | +6 | +4 | +2 | 0 | -2 | -4 |
+| 11-12 | +7 | +5 | +3 | +1 | -1 | -3 |
+| 13-14 | +8 | +6 | +4 | +2 | 0 | -2 |
+
+A dash means the target is too guarded to read at that level. For monsters and beasts, convert Hit Dice to rank using the first table.
 
 | Level | Uses per Encounter | Targets | Benefits to Allies vs Target(s) |
 |-------|--------------------|---------|--------------------------------|
