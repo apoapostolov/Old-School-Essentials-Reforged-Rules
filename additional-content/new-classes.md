@@ -54,17 +54,6 @@ bookish, not athletic, so Breath and Petrification saves lag behind.
 | 10-12 | 8              | 9     | 11                  | 12     | 9      |
 | 13-14 | 7              | 8     | 10                  | 11     | 8      |
 
-Design notes:
-
-- Death/Poison is the Sage's best save. Medical knowledge means he
-  understands toxins, infection, and trauma better than any non-Cleric.
-- Spells is his second best. A career of study builds mental discipline
-  against magical influence and charm.
-- Paralysis/Petrify and Breath are his worst saves. The Sage is not
-  athletic or quick; physical hazards hit him hard.
-- The progression improves by 1 per tier (every 3 levels) across all
-  categories, keeping the relative strengths consistent.
-
 The Sage is a dedicated scholar, healer, and inventor who brings intellectual mastery to adventuring. Through careful observation, deep lore, skilled medicine, appraisal of treasures, and clever craftsmanship, the Sage supports the party by revealing hidden truths, directing combat advantages, stabilizing the fallen with expert care, and creating useful tools. Unlike spellcasters, the Sage relies entirely on non-magical knowledge and preparation, making them a vital advisor in exploration, combat, and downtime.
 
 #### Class Features
