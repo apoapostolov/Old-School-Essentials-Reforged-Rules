@@ -16,24 +16,27 @@
 
 ### Sage XP Progression
 
-The Sage uses Thief XP values. The x10 accelerated XP economy means these thresholds are divided by 10 from the original B/X Thief table.
+The Sage uses Thief XP values. The x10 accelerated XP economy is not baked
+into these thresholds: the numbers are standard B/X Thief progression. The
+speedup comes from the earning side (1 XP per 1 sp of treasure instead of
+1 XP per 1 gp), which delivers roughly ten times the XP per adventure.
 
 | Level | XP Required |
 |-------|-------------|
 | 1     | 0           |
-| 2     | 120         |
-| 3     | 240         |
-| 4     | 480         |
-| 5     | 900         |
-| 6     | 1,500       |
-| 7     | 2,400       |
-| 8     | 3,600       |
-| 9     | 6,000       |
-| 10    | 12,000      |
-| 11    | 24,000      |
-| 12    | 48,000      |
-| 13    | 90,000      |
-| 14    | 180,000     |
+| 2     | 1,200       |
+| 3     | 2,400       |
+| 4     | 4,800       |
+| 5     | 9,600       |
+| 6     | 20,000      |
+| 7     | 40,000      |
+| 8     | 80,000      |
+| 9     | 160,000     |
+| 10    | 280,000     |
+| 11    | 400,000     |
+| 12    | 520,000     |
+| 13    | 640,000     |
+| 14    | 760,000     |
 
 ### Sage Saving Throws
 
