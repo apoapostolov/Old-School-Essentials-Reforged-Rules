@@ -5,7 +5,9 @@
 - **Target**: Combat chapter (rules/04-combat.md), next to the Slow Weapons rule.
 - **Intent**: Let a wielder of a small Quick weapon act during the enemy
   initiative phase when his side lost the roll, instead of standing still
-  waiting to be killed before his turn ever comes.
+  waiting to be killed before his turn ever comes. The 2026-08-22 clean-up
+  adds the second half of the design: everyone else gets a positional
+  answer to reach instead of a counter.
 
 ## Proposed rules text
 
@@ -28,10 +30,12 @@ needs a redo to separate the two (see Follow-up). This proposal does not
 depend on the mastery presentation either way.
 
 The intent behind the Brace clause is reach: a set polearm strikes from
-10 feet and should not be answerable by a dagger. The recommended wording
-below expresses that intent as a reach exclusion, which also covers
-monsters whose bulk gives them de facto reach (giant size, huge paws
-swinging from beyond contact) without looking up any hidden property.
+10 feet and should not be answerable by a dagger at that distance. The
+recommended wording below replaces the Brace lookup with a positional
+rule: the counter only answers a miss delivered from within melee
+contact, and any creature can instead walk inside the point, where the
+reach weapon's damage die collapses to d4 until the wielder wins a DEX
+check and steps back out.
 
 ## How it lands on the existing rules
 
@@ -65,10 +69,10 @@ first looks:
 
 ## Analysis: useful or bogging in a B/X environment?
 
-**Verdict: useful.** This is a low-frequency, low-bookkeeping rule that
-softens the harshest edge of side initiative without touching lethality
-math. It earns its place at an old-school table. The three spec gaps found
-in review are folded into the recommended wording below.
+**Verdict: useful.** This is a low-frequency, low-bookkeeping rule pair
+that softens the harshest edge of side initiative without touching
+lethality math. It earns its place at an old-school table. The three spec
+gaps found in review are folded into the recommended wording below.
 
 ### What it does well
 
@@ -94,108 +98,136 @@ in review are folded into the recommended wording below.
   their initiative modifier on purpose. A whiff with a great weapon now
   has a consequence beyond an empty round. Quick and Slow become two ends
   of one philosophy: small weapons reward presence, big weapons reward
-  landing the blow. The reach exclusion joins the core Brace rule in
-  telling the same story: polearm power lives at 10 feet, and closing
-  inside the point is the historic counter.
+  landing the blow.
+
+### The two answers to reach
+
+The 2026-08-22 clean-up splits the reach problem into two clean parts,
+one for each kind of defender:
+
+1. **The Quick wielder answers a miss with steel.** Only a creature
+   wielding a Quick weapon may make the counter-attack, and only against
+   a miss delivered from within melee contact. A polearm thrust from 10
+   feet is safe at that distance, and a giant's blow swung from beyond
+   arm's length is safe the same way.
+2. **Everyone else answers reach with position.** Any creature, armed
+   with anything, may move into melee contact with an attacker whose
+   attack comes from beyond contact (a reach weapon, an oversized
+   monster). While the intruder remains in contact, that attacker's
+   damage die is d4. Before each of his attacks, the attacker may attempt
+   a DEX check: on a success he attacks with his normal damage die and
+   steps back to restore his range (10 feet for a polearm); on a failure
+   he makes this attack at d4 and stays where he is.
+
+The two halves reinforce each other. Inside the point, the polearm swings
+at d4 from within contact, so a Quick intruder who makes it miss can also
+counter: the within-contact gate is satisfied by the intruder's own
+positioning. Getting inside the point is the work, and the dagger then
+collects the reward.
+
+The position rule is self-balancing through movement economy. When the
+wielder wins his DEX check he steps back out of contact, and the intruder
+must spend his own movement to close again. Nobody tracks a condition:
+the downgrade exists exactly while a creature stands inside contact, and
+it ends the moment range is restored. This is the reach pressure of
+weapon-length systems (Mythras, Forbidden Lands 2e) reduced to one
+positional fact and one occasional die, which is about as much of it as
+B/X can carry.
+
+Expected odds: OSE ability checks roll a d20 under the score, so a
+typical DEX of 9 to 10 recovers the die on 45-50% of attempts, roughly
+once per two attacks. A fighter with DEX 13+ shakes the intruder off
+faster, which is a reasonable reflection of skill.
 
 ### The three gaps and their fixes
 
-1. **The Brace gate needs a reach mechanic.** The clause intends to keep
-   set polearms and lances safe, and in the OSE core rules Brace is a
-   basic polearm property with no mastery attached (see Provenance note).
-   But Brace, core or mastery, is invisible on a monster statblock, and
-   monsters are exactly where d8+ attacks concentrate. A giant never
-   braces anything, yet its paws swing from well beyond a halfling's
-   dagger reach, and at that distance it should be no more answerable
-   than a set spear. The fix is distance: the counter may only answer a
-   miss from within melee contact. Printed reach (Polearm "attack from
-   10'", Lance "reach keeps them at bay") and monster bulk then resolve
-   through the same question, and the DM call for monsters mirrors the
-   existing rule that d8+ monster attacks are Slow only if the entry or
-   the DM says so. No new lookup is introduced.
+1. **The Brace gate needed a reach mechanic.** Brace, core or mastery, is
+   invisible on a monster statblock, and monsters are exactly where d8+
+   attacks concentrate. The fix is positional: contact answers contact.
+   Whether a monster's attack strikes from beyond contact is decided by
+   the DM, mirroring the existing rule that d8+ monster attacks are Slow
+   only if the entry or the DM says so. The same DM call now drives both
+   the counter's within-contact gate and the walk-in downgrade, so a
+   giant that cannot be countered from afar is also a giant that can be
+   body-checked into a d4 paw. No new lookup is introduced.
 2. **Quick is pinned to the base damage die.** Reforged damage dice grow
    with rank (Dagger: 1d4 at Basic, 1d6+ at Skilled and beyond). If Quick
-   tracks the *current* rank die, the rule quietly evaporates for anyone
-   with training. Pinned to the *base* die, a dagger stays Quick for
-   life.
+   tracks the _current_ rank die, the rule quietly evaporates for anyone
+   with training. Pinned to the _base_ die, a dagger stays Quick for
+   life. The position rule uses the same principle in reverse: the
+   wielder's downgrade is to d4 regardless of his rank die.
 3. **The trigger is melee-only.** Longbow and Crossbow damage dice are
    d8+, so by the raw text an archer's miss at 140 feet would invite a
    counter-attack. The trigger must be a missed melee attack.
 
+### Scope note: reach weapons, or all Slow weapons
+
+The walk-in downgrade should apply only to attacks delivered from beyond
+melee contact (reach weapons, oversized monsters). Applying it to every
+d8+ weapon would drop greatswords and mauls to d4 whenever any creature
+stands next to them, which is their normal fighting condition and would
+gut the weapon class. B/X has no range tracking for ordinary melee
+weapons, and the rule should not invent any.
+
 ### Frequency check
 
-The full trigger chain (enemy side won initiative, attacker has a d8+
-melee weapon, he misses from within contact, defender holds a base-d4
-weapon, defender has not attacked) fires perhaps once or twice a session
-at low levels and close to never at high levels. Resolution is a single
-attack roll with the normal to-hit and damage. This does not bog a B/X
+The counter chain (enemy side won initiative, attacker has a d8+ melee
+weapon, he misses from within contact, defender holds a base-d4 weapon,
+defender has not attacked) fires perhaps once or twice a session at low
+levels and close to never at high levels. The position rule fires only
+when someone chooses to close inside a reach weapon, which a table sees
+when a spear wall or a giant matters. Resolution is a single attack roll,
+or a single DEX check plus a normal attack. This does not bog a B/X
 table.
+
+### Foundry note
+
+The earlier deferred variant needed a persistent damage-override effect
+plus a recurring recovery-check hook, which was its disqualifier. The
+cleaned position rule is lighter: the downgrade is a function of
+distance, with no timed effect to maintain, and the recovery is one
+inline DEX roll. It still needs custom automation (a distance check on
+attack), but of a much simpler kind than the variant it replaced.
 
 ## Recommended wording if adopted
 
+> ### Quick Weapons and Counter-Attacks
+>
 > Weapons with a base damage die of d4 are Quick.
 >
 > When a creature misses with a melee attack using a Slow weapon, and the
 > target wields a Quick weapon and has not yet attacked this round, the
 > target may spend its attack for the round to immediately make a
 > counter-attack against the attacker. The counter-attack follows all
-> normal attack rules. It can only be made against an attacker who missed
-> from within melee contact: an attack delivered from beyond contact,
-> such as a polearm set or thrust from 10 feet, or a giant's blow swung
-> from beyond arm's length, cannot be answered. Whether a monster's
-> attack strikes from beyond contact is decided by the DM, as with Slow
+> normal attack rules. It can only be made against an attacker who
+> missed from within melee contact: an attack delivered from beyond
+> contact, such as a polearm set or thrust from 10 feet, or a giant's
+> blow swung from beyond arm's length, cannot be answered. Whether a
+> monster's attack strikes from beyond contact is decided by the DM, as
+> with Slow monster attacks.
+>
+> ### Inside the Point
+>
+> A creature that moves into melee contact with an attacker whose attack
+> comes from beyond contact (a reach weapon, an oversized monster)
+> collapses that attacker's damage die to d4 while it remains in contact.
+>
+> Before each of his attacks, such an attacker may attempt a DEX check.
+> On a success, he makes the attack with his normal damage die and steps
+> back to restore his range (10 feet for a polearm). On a failure, he
+> makes this attack at d4 and remains in contact. Whether a monster's
+> attack comes from beyond contact is decided by the DM, as with Slow
 > monster attacks.
-
-Stricter alternative, if polearms should be excluded as a class rather
-than by use: any weapon or monster attack with reach is never answerable,
-even in melee contact. This is simpler to police at the table but removes
-the "get inside the point" maneuver, which is the classic answer to a
-spear wall. Taken further, that same maneuver grows into a full
-weapon-length system; see the variant below.
-
-## Variant: punish the brace (deferred)
-
-Recorded 2026-08-21 (revised 2026-08-22). An extension proposed in case
-the "get inside the point" dynamics are ever wanted in full:
-
-> If the wielder of a weapon with Brace misses an attack, the opponent
-> may make a counter-attack (as above). If that counter-attack hits, the
-> brace weapon's damage die is reduced to d4. As part of his next attack,
-> the wielder may attempt a DEX check to recover: on a success the
-> weapon's normal damage returns; on a failure the weapon deals d4 for
-> that attack, and the check may be attempted again on a later attack.
-
-Analysis:
-
-- **This is a weapon-length system in miniature.** Degrading the polearm
-  until distance is regained is the core dynamic of reach systems such as
-  Mythras and Forbidden Lands 2e. Grafting it onto OSE converts the game
-  toward those systems, and B/X buys none of their supporting structure.
-  The base proposal deliberately stops short of that line.
-- **Bookkeeping triples.** The variant adds persistent per-weapon state
-  (downgraded die), a recurring DEX check rider on each attack while
-  degraded, and a damage override at the table. The base proposal's
-  selling point is a single attack roll with no state to carry between
-  rounds.
-- **Foundry automation cost is high.** No native support exists for a
-  conditional damage-die override with a per-attack recovery check; it
-  needs a custom active effect plus a check hook on every attack while
-  the condition lasts. The cost is out of proportion to the payoff.
-- **Verdict: record and defer.** If it is ever wanted, consider replacing
-  the DEX check loop with a simpler recovery, for instance normal damage
-  returning at the start of the wielder's next turn unless the opponent
-  is still inside contact. That keeps the pressure while removing the
-  recurring roll and most of the automation burden.
 
 ## Options
 
 | Option | Change | Effect |
 | --- | --- | --- |
 | A. As originally proposed | Trigger on any miss by a non-Brace Slow weapon | Brace is invisible on monster statblocks; Quick evaporates with training; missile misses invite counters. |
-| B. Recommended wording | Melee miss, within-contact gate, base die d4, spends the attack | Closes all three gaps; monster reach rides the same DM call as monster Slow. |
-| C. Mastery-only variant | Give the counter as a Weapon Mastery special (e.g. Dagger Skilled) | Zero new combat-chapter rules, but denies the rule to the squishy characters who need it most. |
-| D. Reject | Do not adopt | The lost-initiative death spiral stays as-is; Parry already offers a defensive answer, but only to characters willing to forfeit their attack before knowing the enemy rolls. |
-| E. Punish the brace | Brace weapons are answerable; a hit counter reduces the brace weapon to d4 until a DEX check recovers it | True reach pressure (Mythras / FL 2e flavor) at triple the bookkeeping and a real Foundry automation cost. Deferred. |
+| B. Recommended wording | Quick counter (melee miss, within contact, base die d4, spends the attack) plus the inside-the-point position rule | Closes all three gaps; two clean answers to reach (steel for Quick, position for everyone); monster reach rides the same DM call as monster Slow. |
+| C. Counter only, no position rule | Adopt the Quick counter without inside the point | The counter stays useful, but non-Quick characters have no answer to a spear wall beyond waiting. |
+| D. Mastery-only variant | Give the counter as a Weapon Mastery special (e.g. Dagger Skilled) | Zero new combat-chapter rules, but denies the rule to the squishy characters who need it most. |
+| E. Reject | Do not adopt | The lost-initiative death spiral stays as-is; Parry already offers a defensive answer, but only to characters willing to forfeit their attack before knowing the enemy rolls. |
 
 ## Follow-up
 
@@ -205,6 +237,12 @@ Analysis:
 
 ## Changelog
 
+- 2026-08-22 (clean-up): Counter confirmed Quick-only. Added the
+  inside-the-point rule: any creature may move into contact with a
+  beyond-contact attacker, collapsing its damage die to d4; DEX check
+  before each attack to recover the die and step back to range. Supersedes
+  the deferred punish-the-brace variant, whose check loop and persistent
+  override are replaced by one positional fact and one inline roll.
 - 2026-08-22: Recorded the punish-the-brace variant (brace weapon
   answerable, d4 downgrade until a DEX recovery check) with analysis;
   deferred as a weapon-length dynamic whose bookkeeping and Foundry
