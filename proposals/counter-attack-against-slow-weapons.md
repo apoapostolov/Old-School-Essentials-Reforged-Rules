@@ -160,6 +160,25 @@ secondary quietly costs more than it appears to. The secondary therefore
 stands as the fallback for table simplicity or Foundry automation only,
 not as the realistic model.
 
+The commitment trap: walking inside the point is a one-way trip. Picture
+the standard line fight: a polearm fighter is contained by a sword
+bandit (polearm at d4), while that same bandit is also engaged with a
+sword ally. The fighter wins his DEX check, steps back, and regains his
+d8 at proper range. The bandit cannot follow. Re-closing means leaving
+melee with the sword ally, which in OSE costs a full action to withdraw
+(or invites a free attack), and even then his move may not reach the
+polearm. He is locked onto the ally he must kill, while the polearm
+fights from outside engagement range at full damage, unanswerable unless
+someone else spends the same entry price he did. The rule pair thus
+prices the walk-in honestly: the d4 downgrade is not a free debuff to
+hurl at the polearm, it is a commitment. The intruder trades his own
+escape options for the right to stand there, and the moment the wielder
+wins one parry, the intruder is the one trapped. Tables will learn to
+use inside the point selectively: to pin a threatening polearm while
+others do something else, not as a default counter, because a failed
+commitment leaves your line fighting a d8 polearm at contact and your
+skirmisher stuck in the wrong engagement.
+
 ### The three gaps and their fixes
 
 1. **The Brace gate needed a reach mechanic.** Brace, core or mastery, is
@@ -269,6 +288,10 @@ kind than the variant they replaced.
 
 ## Changelog
 
+- 2026-08-22: Added the commitment trap to the analysis: a successful
+  step-back strands the intruder in his other engagement (full-action
+  withdrawal or free attack to leave), so inside the point is a
+  commitment rather than a free debuff, and the walk-in self-balances.
 - 2026-08-22: Recorded the realism case for DEX recovery as primary: the
   step-back is a free disengage that does not provoke, justified by the
   weapon still parrying and pushing with its shaft; secondary demoted to
