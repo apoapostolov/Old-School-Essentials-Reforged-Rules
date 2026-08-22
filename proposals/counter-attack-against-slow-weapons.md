@@ -150,7 +150,42 @@ Stricter alternative, if polearms should be excluded as a class rather
 than by use: any weapon or monster attack with reach is never answerable,
 even in melee contact. This is simpler to police at the table but removes
 the "get inside the point" maneuver, which is the classic answer to a
-spear wall and fits the fiction the rule is building.
+spear wall. Taken further, that same maneuver grows into a full
+weapon-length system; see the variant below.
+
+## Variant: punish the brace (deferred)
+
+Recorded 2026-08-21 (revised 2026-08-22). An extension proposed in case
+the "get inside the point" dynamics are ever wanted in full:
+
+> If the wielder of a weapon with Brace misses an attack, the opponent
+> may make a counter-attack (as above). If that counter-attack hits, the
+> brace weapon's damage die is reduced to d4. As part of his next attack,
+> the wielder may attempt a DEX check to recover: on a success the
+> weapon's normal damage returns; on a failure the weapon deals d4 for
+> that attack, and the check may be attempted again on a later attack.
+
+Analysis:
+
+- **This is a weapon-length system in miniature.** Degrading the polearm
+  until distance is regained is the core dynamic of reach systems such as
+  Mythras and Forbidden Lands 2e. Grafting it onto OSE converts the game
+  toward those systems, and B/X buys none of their supporting structure.
+  The base proposal deliberately stops short of that line.
+- **Bookkeeping triples.** The variant adds persistent per-weapon state
+  (downgraded die), a recurring DEX check rider on each attack while
+  degraded, and a damage override at the table. The base proposal's
+  selling point is a single attack roll with no state to carry between
+  rounds.
+- **Foundry automation cost is high.** No native support exists for a
+  conditional damage-die override with a per-attack recovery check; it
+  needs a custom active effect plus a check hook on every attack while
+  the condition lasts. The cost is out of proportion to the payoff.
+- **Verdict: record and defer.** If it is ever wanted, consider replacing
+  the DEX check loop with a simpler recovery, for instance normal damage
+  returning at the start of the wielder's next turn unless the opponent
+  is still inside contact. That keeps the pressure while removing the
+  recurring roll and most of the automation burden.
 
 ## Options
 
@@ -160,6 +195,7 @@ spear wall and fits the fiction the rule is building.
 | B. Recommended wording | Melee miss, within-contact gate, base die d4, spends the attack | Closes all three gaps; monster reach rides the same DM call as monster Slow. |
 | C. Mastery-only variant | Give the counter as a Weapon Mastery special (e.g. Dagger Skilled) | Zero new combat-chapter rules, but denies the rule to the squishy characters who need it most. |
 | D. Reject | Do not adopt | The lost-initiative death spiral stays as-is; Parry already offers a defensive answer, but only to characters willing to forfeit their attack before knowing the enemy rolls. |
+| E. Punish the brace | Brace weapons are answerable; a hit counter reduces the brace weapon to d4 until a DEX check recovers it | True reach pressure (Mythras / FL 2e flavor) at triple the bookkeeping and a real Foundry automation cost. Deferred. |
 
 ## Follow-up
 
@@ -169,6 +205,10 @@ spear wall and fits the fiction the rule is building.
 
 ## Changelog
 
+- 2026-08-22: Recorded the punish-the-brace variant (brace weapon
+  answerable, d4 downgrade until a DEX recovery check) with analysis;
+  deferred as a weapon-length dynamic whose bookkeeping and Foundry
+  automation cost outweigh its payoff in B/X.
 - 2026-08-21: Corrected Brace provenance (OSE core: basic polearm brace,
   no mastery required), replaced the Brace gate with a reach exclusion,
   pinned Quick to the base damage die, restricted the trigger to melee
