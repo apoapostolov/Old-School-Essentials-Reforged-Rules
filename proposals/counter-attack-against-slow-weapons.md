@@ -139,14 +139,26 @@ typical DEX of 9 to 10 recovers the die on 45-50% of attempts, roughly
 once per two attacks. A fighter with DEX 13+ shakes the intruder off
 faster, which is a reasonable reflection of skill.
 
+Why the DEX check is the realistic resolution, and the primary one: an
+enemy who has closed inside the point cannot simply be walked away from.
+In OSE, leaving melee is a withdrawal (the whole move, at a vulnerable
+crawl) or it invites an attack, and a wielder delivering damage does not
+want to spend his action disengaging anyway. The DEX check is the
+middle path: free, but uncertain. It represents using the weapon for
+what it can still do, pushing and parrying, to shove the enemy back and
+reset to working range. In effect it is a free disengage at roughly half
+chance (45-50% at DEX 9-10), and that chance exists precisely because a
+polearm is still a good defensive tool even when its edge cannot be
+brought to bear.
+
 The secondary resolution (start-of-turn recovery) removes the recurring
-roll entirely: the die returns on its own unless the intruder still
-holds contact, and regaining range is just movement. It keeps the reach
-pressure, since the polearm still swings at d4 every round the intruder
-stays inside, but the wielder no longer gets an active say in breaking
-out. Primary stays DEX for now; the secondary is the fallback if the
-per-attack check proves too fiddly in play or in Foundry, where it needs
-no roll hook at all, only the distance check.
+roll entirely, but the realism argument scores against it twice. First,
+the wielder no longer has an active say in breaking out; he waits. In
+fact, under strict OSE movement, leaving contact to regain range is not
+a free normal move at all, it is a withdrawal or a provocation, so the
+secondary quietly costs more than it appears to. The secondary therefore
+stands as the fallback for table simplicity or Foundry automation only,
+not as the realistic model.
 
 ### The three gaps and their fixes
 
@@ -226,14 +238,18 @@ kind than the variant they replaced.
 > Primary resolution, DEX recovery: before each of his attacks, such an
 > attacker may attempt a DEX check. On a success, he makes the attack
 > with his normal damage die and steps back to restore his range
-> (10 feet for a polearm). On a failure, he makes this attack at d4 and
-> remains in contact. Whether a monster's attack comes from beyond
-> contact is decided by the DM, as with Slow monster attacks.
+> (10 feet for a polearm). This step-back does not provoke an attack:
+> the check represents parrying the enemy back with the shaft, which
+> still pushes and guards even though the edge is not usable. On a
+> failure, he makes this attack at d4 and remains in contact. Whether a
+> monster's attack comes from beyond contact is decided by the DM, as
+> with Slow monster attacks.
 >
 > Secondary resolution, start-of-turn recovery: no DEX check is rolled.
 > At the start of the attacker's turn, if no creature remains in melee
 > contact with him, his damage die returns to normal; if a creature still
-> holds contact, he attacks at d4. Regaining range is a normal move.
+> holds contact, he attacks at d4. Regaining range follows the normal
+> rules for leaving melee.
 
 ## Options
 
@@ -253,6 +269,11 @@ kind than the variant they replaced.
 
 ## Changelog
 
+- 2026-08-22: Recorded the realism case for DEX recovery as primary: the
+  step-back is a free disengage that does not provoke, justified by the
+  weapon still parrying and pushing with its shaft; secondary demoted to
+  a simplicity/automation fallback, with regaining range under it
+  following normal leaving-melee rules.
 - 2026-08-22: Added the start-of-turn recovery as the secondary
   resolution for inside the point (die returns at turn start unless
   contact still holds; no roll); DEX recovery stays primary. Both
