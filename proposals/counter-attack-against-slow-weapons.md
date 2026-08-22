@@ -139,6 +139,15 @@ typical DEX of 9 to 10 recovers the die on 45-50% of attempts, roughly
 once per two attacks. A fighter with DEX 13+ shakes the intruder off
 faster, which is a reasonable reflection of skill.
 
+The secondary resolution (start-of-turn recovery) removes the recurring
+roll entirely: the die returns on its own unless the intruder still
+holds contact, and regaining range is just movement. It keeps the reach
+pressure, since the polearm still swings at d4 every round the intruder
+stays inside, but the wielder no longer gets an active say in breaking
+out. Primary stays DEX for now; the secondary is the fallback if the
+per-attack check proves too fiddly in play or in Foundry, where it needs
+no roll hook at all, only the distance check.
+
 ### The three gaps and their fixes
 
 1. **The Brace gate needed a reach mechanic.** Brace, core or mastery, is
@@ -185,9 +194,11 @@ table.
 The earlier deferred variant needed a persistent damage-override effect
 plus a recurring recovery-check hook, which was its disqualifier. The
 cleaned position rule is lighter: the downgrade is a function of
-distance, with no timed effect to maintain, and the recovery is one
-inline DEX roll. It still needs custom automation (a distance check on
-attack), but of a much simpler kind than the variant it replaced.
+distance, with no timed effect to maintain. The primary resolution adds
+one inline DEX roll per attack while contained; the secondary resolution
+needs no roll hook at all, only the distance check. Both still need
+custom automation (a distance check on attack), but of a much simpler
+kind than the variant they replaced.
 
 ## Recommended wording if adopted
 
@@ -212,12 +223,17 @@ attack), but of a much simpler kind than the variant it replaced.
 > comes from beyond contact (a reach weapon, an oversized monster)
 > collapses that attacker's damage die to d4 while it remains in contact.
 >
-> Before each of his attacks, such an attacker may attempt a DEX check.
-> On a success, he makes the attack with his normal damage die and steps
-> back to restore his range (10 feet for a polearm). On a failure, he
-> makes this attack at d4 and remains in contact. Whether a monster's
-> attack comes from beyond contact is decided by the DM, as with Slow
-> monster attacks.
+> Primary resolution, DEX recovery: before each of his attacks, such an
+> attacker may attempt a DEX check. On a success, he makes the attack
+> with his normal damage die and steps back to restore his range
+> (10 feet for a polearm). On a failure, he makes this attack at d4 and
+> remains in contact. Whether a monster's attack comes from beyond
+> contact is decided by the DM, as with Slow monster attacks.
+>
+> Secondary resolution, start-of-turn recovery: no DEX check is rolled.
+> At the start of the attacker's turn, if no creature remains in melee
+> contact with him, his damage die returns to normal; if a creature still
+> holds contact, he attacks at d4. Regaining range is a normal move.
 
 ## Options
 
@@ -237,6 +253,10 @@ attack), but of a much simpler kind than the variant it replaced.
 
 ## Changelog
 
+- 2026-08-22: Added the start-of-turn recovery as the secondary
+  resolution for inside the point (die returns at turn start unless
+  contact still holds; no roll); DEX recovery stays primary. Both
+  resolutions remain proposal-only.
 - 2026-08-22 (clean-up): Counter confirmed Quick-only. Added the
   inside-the-point rule: any creature may move into contact with a
   beyond-contact attacker, collapsing its damage die to d4; DEX check
