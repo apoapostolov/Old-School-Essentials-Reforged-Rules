@@ -26,6 +26,14 @@ You can strike any surprised or unaware of threat enemy with a bonus of +2 to a 
 
 You may announce that your character will run in combat before initiative is rolled each turn. Running in combat allows your character to use its exploration speed for movement instead of its combat speed. The character cannot do anything else this turn and suffers a -4 penalty to AC against melee attacks until the start of their next turn. The character may not run at its exploration speed through any terrain that would impede or slow down its movement.
 
+### Withdraw
+
+When you are engaged in melee against a single enemy, you may spend your attack action before movement to find an opening and step out of that enemy's weapon range. You are no longer engaged. You may now move out of engagement range.
+
+When you are engaged in melee against more than one enemy, you must also make a Dexterity check, with a -2 penalty for every enemy after the second. On a success, you spend your attack action and withdraw as above. On a failure, you may still withdraw if you also spend your movement for the round, and step away up to 5 feet.
+
+This replaces the published fighting withdrawal. Turning and fleeing is still a retreat: enemies in melee may attack you at +2.
+
 ### Subduing Damage
 
 Attacks with the "flat of the blade" for non-lethal damage are made at a -1 attack penalty. No penalty is applied if the melee weapon does bludgeoning damage and its damage die is not larger than d6. Attacks with ranged weapons that aim to disable the enemy by striking non-lethally are made at a -2 attack penalty and cannot be made at a long-range distance. Spells cannot do nonlethal damage.
@@ -45,6 +53,18 @@ When an enemy rolls to attack and hits you before damage is rolled, you may Parr
 While you share the same 5-foot square space as another ally and the ally is prone on the ground by or behind you, you can cover that ally from enemy attacks. At the end of your turn, you take a -1 penalty to your ascending Armor Class (or +1 if descending), and your ally benefits from +2 to their ascending Armor Class (or -2 if not ascending). This effect lasts until the end of your next turn when you can continue or end this effect. Low-intelligence enemies would attack you instead of the ally you cover; high-intelligence enemies may choose to attack through you.
 
 While prone and sharing the same 5-foot square space, your ally may choose to take no movement and no attack action but to improve its cover from you. This must be announced before rolling the initiative for the round. If they do so, the benefit from being covered by you increases to +4 to their ascending Armor Class (or -4 if not ascending).
+
+### Ganging Up
+
+When ganging on an enemy, the number of creatures that can attack at in melee is limited without crowding into each other's swings. One size step is the difference between a Halfling and a Human, or a Human and an Ogre.
+| Attackers relative to the target      | Close engagement maximum |
+| ------------------------------------- | ------------------------ |
+| Same size                             | 3                        |
+| Same size, plus one size step smaller | 3, plus 2 more (5 total) |
+| One size step larger                  | 2                        |
+Any additional creature that announce to attacks the same enemy in melee in the same turn apply a cumulative -2 penalty for each extra attacker (-2 for the first extra, -4 for the second, and so on) to all attackers engaged with that enemy.
+
+Attackers with long weapons (spears, polearms, and other reach weapons; see Weapon Mastery) that attack a target already at or above its close engagement maximum count as extra attackers and take this penalty.
 
 ## Masterwork Weapons and Armor
 

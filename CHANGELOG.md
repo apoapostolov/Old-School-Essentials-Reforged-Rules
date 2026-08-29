@@ -5,6 +5,15 @@ recorded here.
 
 ## [Unreleased]
 
+- Combat: *Withdraw* (action to leave melee; DEX check when two or more
+  enemies, -2 per enemy after the second; failed check still works if you
+  also spend movement). Replaces published fighting withdrawal; retreat
+  still grants +2 attacks.
+- Combat: *Ganging Up* close-engagement caps (3 same size, +2 one step
+  smaller for 5 total, 2 one step larger). Extra melee attackers in the
+  same turn take a cumulative -2. Reach weapons past a full close fight
+  count as extras.
+
 ## 2026-08-08 - v2.0.1 - Wrestling Subsystem
 
 - Added the *Wrestling* subsystem: a full close-combat game on top of the

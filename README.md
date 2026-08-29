@@ -20,7 +20,7 @@ Ordered the way the rules chapters read. These are the systems this edition buil
 
 - **Unified Class Rework.** Basic, demihuman, and advanced classes get targeted fixes instead of one-size patches. Demihumans carry higher ability gates and stronger racial features; advanced classes gain abilities worth picking. Three THAC0 groups (Warrior, Adventurer, Mage) replace per-class attack tables through level 14.
 
-- **Expanded Combat Procedures.** Slow-weapon death delay, subduing damage, parry and riposte, covering an ally, shooting past creatures, and fire or bleeding damage give the fight more levers without a new edition’s action economy. Masterwork gear sits beside magic so fine craft matters before +1 swords appear.
+- **Expanded Combat Procedures.** Slow-weapon death delay, subduing damage, parry and riposte, covering an ally, shooting past creatures, withdraw, ganging up in melee, and fire or bleeding damage give the fight more levers without a new edition’s action economy. Masterwork gear sits beside magic so fine craft matters before +1 swords appear.
 
 - **Expanded Skill System.** Forty-plus skills organized by attribute, with starting slots from Intelligence and gains across the career. Checks scale Simple / Expert / Heroic, and class-feature protection stops a general skill from eating a class’s signature job.
 
