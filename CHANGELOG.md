@@ -5,6 +5,9 @@ recorded here.
 
 ## [Unreleased]
 
+- Starting Health: The Constitution modifier does not apply to the racial
+  hit die. Clarifies the racial die as a flat survivability grant; CON
+  continues to apply to class hit dice as normal.
 - Combat: *Withdraw* (action to leave melee; DEX check when two or more
   enemies, -2 per enemy after the second; failed check still works if you
   also spend movement). Replaces published fighting withdrawal; retreat

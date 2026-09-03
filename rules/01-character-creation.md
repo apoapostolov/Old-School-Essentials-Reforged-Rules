@@ -18,7 +18,7 @@ Reduce an ability score by 2 to gain 1 adjustment point; you may reduce each sco
 
 ## Starting Health
 
-All human and common demi-human characters of civilized settlements and civilizations in the world have an extra 1d4 hit die, called racial hit die and rolled upon character creation. Uncivilized races that live in harsh conditions or have oppressive societies (for example, Orcs and Drow) start with a d6 racial hit die. Other races may have racial hit die based on size (tiny 1, small 1d2, large 1d8, huge 2d6), or age (human child 1, human teen 1d2). For monsters, this racial health is part of their Hit Dice as indicated in their stat block. Characters, typically commoners without a class, only rely on these racial hit points. The racial hit points have a minimum of 1 hit point.
+All human and common demi-human characters of civilized settlements and civilizations in the world have an extra 1d4 hit die, called racial hit die and rolled upon character creation. Uncivilized races that live in harsh conditions or have oppressive societies (for example, Orcs and Drow) start with a d6 racial hit die. Other races may have racial hit die based on size (tiny 1, small 1d2, large 1d8, huge 2d6), or age (human child 1, human teen 1d2). For monsters, this racial health is part of their Hit Dice as indicated in their stat block. Characters, typically commoners without a class, only rely on these racial hit points. The racial hit points have a minimum of 1 hit point. The Constitution modifier does not apply to the racial hit die.
 
 All characters that start at 1st level or higher in a class take maximum hit points from their class hit die at 1st level. At higher levels, class Hit Dice are rolled as normal.
 
