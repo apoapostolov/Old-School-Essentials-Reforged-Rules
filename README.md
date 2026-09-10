@@ -6,13 +6,13 @@ _Old-School Essentials Reforged_ is a house-rule framework by Apostol Apostolov 
 
 You need the published OSE rules to use this. The framework targets a 14-level game with accelerated XP (×10 standard progression) so advancement fits a modern play schedule.
 
-## What’s New in 2.0.1
+## What’s New in 2.1.0
 
-- **Wrestling** subsystem on top of the Weapon Mastery Wrestling track: holds, positions, exhaustion, pin initiative, techniques, dirty tactics, and monster grapple hooks.
-- **Silent Work** for stealth wrestling — quiet takedowns and alarm rules when the table needs a silent kill.
-- Sage updates: Keen Observation uses a Turn Undead-style rank table; requirements and skill row titles cleaned up.
+- **Withdraw** and **Ganging Up** in Combat. Withdraw spends the attack to leave melee (DEX check vs two or more). Ganging Up caps close engagement by size; extra melee attackers take a cumulative -2.
+- Racial hit die is a flat survivability grant: Constitution does not modify it.
+- Markup cleanup on character creation, literacy scripts, Sage overview placement, and darkness labels.
 
-See the full [changelog](./CHANGELOG.md).
+2.0.1 shipped the Wrestling subsystem (including Silent Work) and Sage Keen Observation ranks. See the full [changelog](./CHANGELOG.md).
 
 ## Highlights
 

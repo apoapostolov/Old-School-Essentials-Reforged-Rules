@@ -14,6 +14,8 @@
 - **Experience Progression**: As Thief (fast progression). The Sage earns levels through fieldwork, applied scholarship, and survival, not through the long isolated study that spellcasters endure.
 - **Alignment**: Any, predominantly Neutral.
 
+The Sage is a dedicated scholar, healer, and inventor who brings intellectual mastery to adventuring. Through careful observation, deep lore, skilled medicine, appraisal of treasures, and clever craftsmanship, the Sage supports the party by revealing hidden truths, directing combat advantages, stabilizing the fallen with expert care, and creating useful tools. Unlike spellcasters, the Sage relies entirely on non-magical knowledge and preparation, making them a vital advisor in exploration, combat, and downtime.
+
 ### Sage XP Progression
 
 The Sage uses Thief XP values. The x10 accelerated XP economy is not baked
@@ -53,8 +55,6 @@ bookish, not athletic, so Breath and Petrification saves lag behind.
 | 7-9   | 9              | 10    | 12                  | 13     | 10     |
 | 10-12 | 8              | 9     | 11                  | 12     | 9      |
 | 13-14 | 7              | 8     | 10                  | 11     | 8      |
-
-The Sage is a dedicated scholar, healer, and inventor who brings intellectual mastery to adventuring. Through careful observation, deep lore, skilled medicine, appraisal of treasures, and clever craftsmanship, the Sage supports the party by revealing hidden truths, directing combat advantages, stabilizing the fallen with expert care, and creating useful tools. Unlike spellcasters, the Sage relies entirely on non-magical knowledge and preparation, making them a vital advisor in exploration, combat, and downtime.
 
 #### Class Features
 

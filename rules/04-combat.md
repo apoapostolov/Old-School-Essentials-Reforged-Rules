@@ -56,15 +56,17 @@ While prone and sharing the same 5-foot square space, your ally may choose to ta
 
 ### Ganging Up
 
-When ganging on an enemy, the number of creatures that can attack at in melee is limited without crowding into each other's swings. One size step is the difference between a Halfling and a Human, or a Human and an Ogre.
+Close engagement is the number of creatures that can attack one enemy in melee without crowding into each other's swings. One size step is the difference between a Halfling and a human, or a human and an ogre.
+
 | Attackers relative to the target      | Close engagement maximum |
 | ------------------------------------- | ------------------------ |
 | Same size                             | 3                        |
 | Same size, plus one size step smaller | 3, plus 2 more (5 total) |
 | One size step larger                  | 2                        |
-Any additional creature that announce to attacks the same enemy in melee in the same turn apply a cumulative -2 penalty for each extra attacker (-2 for the first extra, -4 for the second, and so on) to all attackers engaged with that enemy.
 
-Attackers with long weapons (spears, polearms, and other reach weapons; see Weapon Mastery) that attack a target already at or above its close engagement maximum count as extra attackers and take this penalty.
+Any additional creature that attacks the same enemy in melee in the same turn does so at a cumulative -2 penalty for each extra attacker (-2 for the first extra, -4 for the second, and so on).
+
+Attackers with long weapons (spears, polearms, and other reach weapons; see Weapon Mastery) that attack a target already at its close engagement maximum count as extra attackers and take this penalty.
 
 ## Masterwork Weapons and Armor
 

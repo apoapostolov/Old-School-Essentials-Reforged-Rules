@@ -3,19 +3,28 @@
 All notable updates to the Old-School Essentials Reforged house rules are
 recorded here.
 
-## [Unreleased]
+## 2026-09-10 - v2.1.0 - Lifestyle 1.4.5 / 1.4.6 sync
 
-- Starting Health: The Constitution modifier does not apply to the racial
-  hit die. Clarifies the racial die as a flat survivability grant; CON
-  continues to apply to class hit dice as normal.
+Aligned the public chapters with lifestyle manuscript v1.4.6. Public-only
+additions (Wrestling Silent Work, lair ecology, Sage in the Mage attack
+group) stay.
+
 - Combat: *Withdraw* (action to leave melee; DEX check when two or more
   enemies, -2 per enemy after the second; failed check still works if you
   also spend movement). Replaces published fighting withdrawal; retreat
   still grants +2 attacks.
 - Combat: *Ganging Up* close-engagement caps (3 same size, +2 one step
-  smaller for 5 total, 2 one step larger). Extra melee attackers in the
-  same turn take a cumulative -2. Reach weapons past a full close fight
-  count as extras.
+  smaller for 5 total, 2 one step larger). The cumulative -2 applies only
+  to extra attackers, not to the whole close group. Reach weapons past a
+  full close fight count as extras.
+- Starting Health: The Constitution modifier does not apply to the racial
+  hit die. Clarifies the racial die as a flat survivability grant; CON
+  continues to apply to class hit dice as normal.
+- Character Creation: fix Ascending AC bold markup.
+- General Rules: literacy scripts are a list; Special Adjustments bold markup.
+- Combat: blank line before the Ganging Up table.
+- Environment: Pitch Darkness bold markup.
+- Sage: class overview sits on the Sage page; XP, saves, and Class Features stay subsections.
 
 ## 2026-08-08 - v2.0.1 - Wrestling Subsystem
 

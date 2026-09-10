@@ -2,7 +2,7 @@
 
 ## Converting Old-School D&D to Modern Days
 
-*_Ascending AC:__ Your ascending AC is equal to 19 minus your descending AC. For example leather armor class of 7 equals AC 12 for modern d20 + To Hit vs. AC attack rolls.
+__Ascending AC:__ Your ascending AC is equal to 19 minus your descending AC. For example leather armor class of 7 equals AC 12 for modern d20 + To Hit vs. AC attack rolls.
 
 __To Hit Bonus:__ Your To Hit bonus is equal to 19 minus your THAC0. For example level 1 Fighter has a THAC0 of 19, and their To Hit bonus equals +0 for modern d20 + To Hit vs. AC attack rolls.
 

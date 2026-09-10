@@ -64,9 +64,9 @@ In canon of the Grand Duchy of Karameikos, pure __Thyatians__ make up roughly 10
 
 In the traditional society of the Grand Duchy of Karameikos, literacy remains a privilege largely confined to the educated elite. Most knowledge is preserved and transmitted orally through folklore, epic tales, songs, and family traditions. Practical literacy is commonplace only among merchants, tradesmen, administrators, and those involved in governance or trade with the Thyatian Empire. To determine a character’s literacy level, make a number of __Ability Checks under Intelligence__ equal to the value shown in the Family Social Standing table. Each successful check grants one Literacy Success.
 
-__Special Adjustments:_*
+__Special Adjustments:__
 
-- Barbarians and Druids receive *_one fewer check__ than indicated.
+- Barbarians and Druids receive __one fewer check__ than indicated.
 - Clerics, Magic-Users, and Illusionists automatically gain __one free Literacy Success__ (added after all checks are resolved). Magic-Users and Illusionists can choose to take Glantrian as their first literate language instead of Traladar. Most imported or spell-books used by travelling magic users prefer to use Glantrian so they aren’t widely used if stolen. Clerics use Monastic Script for the same reason, using so complex caligraphy that it is very hard for normal folk to read.
 - Characters from the Royal Family or Thyatian origin are assumed to begin with Thyatian as their primary spoken and written language, and they receive both for free.
 
@@ -79,13 +79,13 @@ __Special Adjustments:_*
 | __2__              | __Fluent Literacy:__ Reads and writes with full comprehension and a competent, stylish prose sufficient to pass as an educated individual in most social and professional contexts.                                                                                                                                                                                                                                                                                       |
 | __3 or more__      | __Advanced Literacy:__ In addition to fluent literacy, the character masters one specialised additional script, language, or style of the player’s choice (each additional success beyond the third grants mastery of one further option; no duplicates). You must be able to speak the language that you learn to read and write into, unless you receive it for free from your Family Social Standing, at which point you receive the spoken language as well for free. |
 
-__• Elven Script -__ mastery of the elegant, flowing elven writing system (suitable for Callarii or Vyalia dialects; aids in reading ancient elven texts or inscriptions).
-__• Dwarven Runes (Dethek) -__ proficiency in the angular runic script of the dwarves (common in Rockhome and Highforge/Stronghollow clans; useful for inscriptions on weapons, forges, or clan records).
-__• Monastic Calligraphy -__ able to read, write, and forge ecclesiastical documents and messages of the Church of Karameikos or Heliocosmos.
-__• Thyatian (Formal) -__ fluent in official Imperial Thyatian script and style, sufficient to comprehend non-encrypted political, legal, and administrative correspondence.
-__• Alasiyan (Ylari) -__ the primary language and script of the Emirates of Ylaruam (a desert nation to the north of Karameikos, inspired by medieval Arabic cultures).
-__• Glantrian -__ one of the major languages and scripts of the Principalities of Glantri (player chooses which, e.g., Alphatian, Flaemish, or Belcadiz).
-__• Thieves’ Cant -__ secret signs, symbols, and coded phrases commonly used by criminals and operatives of the Iron Ring (also aids in forgeries and veiled communications). |
+- __Elven Script:__ mastery of the elegant, flowing elven writing system (suitable for Callarii or Vyalia dialects; aids in reading ancient elven texts or inscriptions).
+- __Dwarven Runes (Dethek):__ proficiency in the angular runic script of the dwarves (common in Rockhome and Highforge/Stronghollow clans; useful for inscriptions on weapons, forges, or clan records).
+- __Monastic Calligraphy:__ able to read, write, and forge ecclesiastical documents and messages of the Church of Karameikos or Heliocosmos.
+- __Thyatian (Formal):__ fluent in official Imperial Thyatian script and style, sufficient to comprehend non-encrypted political, legal, and administrative correspondence.
+- __Alasiyan (Ylari):__ the primary language and script of the Emirates of Ylaruam (a desert nation to the north of Karameikos, inspired by medieval Arabic cultures).
+- __Glantrian:__ one of the major languages and scripts of the Principalities of Glantri (player chooses which, e.g., Alphatian, Flaemish, or Belcadiz).
+- __Thieves’ Cant:__ secret signs, symbols, and coded phrases commonly used by criminals and operatives of the Iron Ring (also aids in forgeries and veiled communications).
 
 Improving your character’s Literacy takes a downtime of six months and 500 gp investment, and is typically handled between adventures.
 

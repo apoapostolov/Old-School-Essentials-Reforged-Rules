@@ -6,7 +6,7 @@
 
 Attacking a creature you cannot see imposes penalties based on lighting conditions and available sensory information:
 
-*_Blinded, or Pitch Darkness (no light source):__ -4 to attack rolls, and all complex interactions require a check at -4 darkness penalty. Creatures rely entirely on sound, air flow and smell, and touch to locate targets. Assassins and Thieves may use pitch darkness as a substitute for surprise, as long as their exact location cannot be pinpointed by their target by other senses like sound or smell, and they succeed on Move Silent check rolled before any movement or action. Creatures with infravision ignore these penalties in pitch darkness but suffer the standard penalties if any light source is present within their range.
+__Blinded, or Pitch Darkness (no light source):__ -4 to attack rolls, and all complex interactions require a check at -4 darkness penalty. Creatures rely entirely on sound, air flow and smell, and touch to locate targets. Assassins and Thieves may use pitch darkness as a substitute for surprise, as long as their exact location cannot be pinpointed by their target by other senses like sound or smell, and they succeed on Move Silent check rolled before any movement or action. Creatures with infravision ignore these penalties in pitch darkness but suffer the standard penalties if any light source is present within their range.
 
 __Moonlit Darkness or Dim Light (edges of torchlight):__ -2 to attack rolls. Creatures can perceive vague shapes and movement but lack detail for precise strikes. This applies at the edge of a torch's 30' radius or in open moonlight with partial concealment. Creatures with low-light vision ignore these penalties in moonlit darkness and dim light.
 
