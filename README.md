@@ -6,13 +6,11 @@ _Old-School Essentials Reforged_ is a house-rule framework by Apostol Apostolov 
 
 You need the published OSE rules to use this. The framework targets a 14-level game with accelerated XP (×10 standard progression) so advancement fits a modern play schedule.
 
-## What’s New in 2.1.0
+## What’s New in 2.1.1
 
-- **Withdraw** and **Ganging Up** in Combat. Withdraw spends the attack to leave melee (DEX check vs two or more). Ganging Up caps close engagement by size; extra melee attackers take a cumulative -2.
-- Racial hit die is a flat survivability grant: Constitution does not modify it.
-- Markup cleanup on character creation, literacy scripts, Sage overview placement, and darkness labels.
+- Skills chapter is self-contained. The attribute tables are the full list; the leftover *check Rules Cyclopedia* pointer is gone. Sage Broad Knowledge uses that list.
 
-2.0.1 shipped the Wrestling subsystem (including Silent Work) and Sage Keen Observation ranks. See the full [changelog](./CHANGELOG.md).
+2.1.0 added Withdraw and Ganging Up, and made the racial hit die ignore Constitution. 2.0.1 shipped Wrestling (including Silent Work) and Sage Keen Observation ranks. See the full [changelog](./CHANGELOG.md).
 
 ## Highlights
 

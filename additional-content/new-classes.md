@@ -76,7 +76,7 @@ bookish, not athletic, so Breath and Petrification saves lag behind.
 
 These skills are class-exclusive Heroic checks; others may attempt related ability checks at penalties.
 
-**Broad Knowledge:** In addition to the percentile skills above, the Sage has access to the general skill system from Rules Cyclopedia (pg. 81-86). The Sage begins with the standard number of blank skill slots available to all characters. However, the Sage gains **additional blank skill slots every 2 levels** (at levels 2, 4, 6, 8, 10, etc.), and these bonus slots may **only** be filled with knowledge-based or "Lore" skills from the Rules Cyclopedia list (or equivalent DM-approved intellectual skills). Examples include:
+**Broad Knowledge:** In addition to the percentile skills above, the Sage has access to the general skill system in Skills. The Sage begins with the standard number of blank skill slots available to all characters. However, the Sage gains **additional blank skill slots every 2 levels** (at levels 2, 4, 6, 8, 10, etc.), and these bonus slots may **only** be filled with knowledge-based or "Lore" skills from that list (or equivalent DM-approved intellectual skills). Examples include:
 
 - Science (various specialties: biology, geology, astronomy, etc.)
 - History
@@ -87,7 +87,7 @@ These skills are class-exclusive Heroic checks; others may attempt related abili
 - Nature (plants, animals-non-combat identification)
 - Any other purely intellectual skill approved by the DM (no combat, stealth, or performance skills).
 
-These slots follow all standard RC skill rules: filled on demand during play (with backstory justification), improved to Expert (+2 or equivalent) at level 5 and Master (+5) at level 9 by spending additional slots on the same skill. Bonus slots do not count toward standard character limits and are exclusively for deepening the Sage's scholarly expertise.
+These slots follow the standard skill rules: filled on demand during play (with backstory justification), improved to Expert (+2 or equivalent) at level 5 and Master (+5) at level 9 by spending additional slots on the same skill. Bonus slots do not count toward standard character limits and are exclusively for deepening the Sage's scholarly expertise.
 
 This makes the Sage the party's premier repository of specialized knowledge, able to accumulate a broad array of lore skills over time without competing with other classes' general skill access.
 

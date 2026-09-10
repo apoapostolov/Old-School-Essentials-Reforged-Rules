@@ -2,11 +2,7 @@
 
 ## Skills
 
-### Chapter 5: Skills (Rules Cyclopaedia, pg. 81-86)
-
-Check Rules Cyclopaedia, pg. 81-86, for description of Skills.
-
-### Beginning Skills (Rules Cyclopaedia, pg. 81)
+### Beginning Skills
 
 Starting skill slots equal the character's Intelligence modifier (minimum 1). INT 13-15 = 1 slot, INT 16-17 = 2 slots, INT 18 = 3 slots. Additional slots: +1 at levels 3, 6, 9, 12, 15. The Sage class gains bonus slots per the Sage class features.
 
@@ -24,7 +20,7 @@ The DM chooses the difficulty of each skill check and announces it to the player
 - __Expert Checks__: Characters who do not have the applicable skill cannot usually attempt the check, though the DM may allow a check at -5 to the ability score if the skill is something that does not require specialized training. Characters who have applicable skills make an ability check. Characters with a class skill succeed without making a check.
 - __Heroic Checks__: Characters cannot make the check, even if they have an applicable skill. Only classes with an appropriate class skill can attempt an X-in-6 or percentile check as described in their skill.
 
-Remember, only one check can be made in a situation as it applies to the situation, not a particular player’s ability to achieve the result (see Using Skills Together, pg. 86). If multiple players are acting together, such as trying to listen through a door, the ones who would succeed with the rolled result achieve the success.
+Remember, only one check can be made in a situation as it applies to the situation, not a particular player’s ability to achieve the result. If multiple players are acting together, such as trying to listen through a door, the ones who would succeed with the rolled result achieve the success.
 
 ### Skills by Attribute (Full List)
 
@@ -125,7 +121,7 @@ These RC skills are __not available__ as general skills because they directly du
 | __Food Tasting__ | Merged | Folded into __Iron Stomach__: poison detection + resistance as one coherent CON skill. |
 | __Slow Respiration__ | Split | Split into __Hold Breath__ (breath control) and __Iron Stomach__ (poison resistance). The original combined two thematically unrelated effects. |
 
-### Improving Skills (pg. 86)
+### Improving Skills
 
 - You cannot spend slots to take the same skill twice until level 5 unless the skill has a different subject or area of competence, as listed in the skill description.
 - On reaching level 5, you may take the same skill a second time to become an Expert. On reaching level 9, you may take the same skill a third time to become a Master.

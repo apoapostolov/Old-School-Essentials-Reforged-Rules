@@ -3,11 +3,14 @@
 All notable updates to the Old-School Essentials Reforged house rules are
 recorded here.
 
-## 2026-09-10 - v2.1.0 - Lifestyle 1.4.5 / 1.4.6 sync
+## 2026-09-10 - v2.1.1
 
-Aligned the public chapters with lifestyle manuscript v1.4.6. Public-only
-additions (Wrestling Silent Work, lair ecology, Sage in the Mage attack
-group) stay.
+- Skills: dropped the leftover *check Rules Cyclopedia pg. 81-86* pointer.
+  The attribute tables in this chapter are the full skill list.
+- Sage Broad Knowledge: bonus lore slots use the Skills chapter, not the
+  Cyclopedia list.
+
+## 2026-09-10 - v2.1.0
 
 - Combat: *Withdraw* (action to leave melee; DEX check when two or more
   enemies, -2 per enemy after the second; failed check still works if you
