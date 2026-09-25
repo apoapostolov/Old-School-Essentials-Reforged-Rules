@@ -3,27 +3,13 @@
 All notable updates to the Old-School Essentials Reforged house rules are
 recorded here.
 
-## 2026-09-25 - v2.2.1
-
-- General Rules: saving throws succeed only when the d20 result is higher than
-  the class-table target, rather than equal to or higher.
-- General Rules: the modern name for Paralysis or Petrification is now
-  __Break__.
-- General Rules: revised __Armor and Avoiding Threats__ modifiers. Heavy armor
-- gives -2 to whole-body escapes and -1 to limb escapes.
-
 ## 2026-09-25 - v2.2.0
 
-- General Rules: new __Saving Throws__ section at the top of the chapter. It
-  lists the five saves and what each one answers.
 - General Rules: the five saving throws gained a __Modern name__ column
-  (Doom, Resist, Hold, Avoid, Withstand), optional to use. The names map one to
-  one and change nothing mechanical. The Foundry module setting that relabels
-  the sheets is off by default.
+  (Doom, Resist, Hold, Avoid, Withstand), optional to use. 
 - General Rules: __Armor and Avoiding Threats.__ The Avoid save takes an armor
   modifier: unarmored +2 for a whole-body escape and +1 to a limb, light armor
-  +1 and +1, heavy armor -2 and -2. A shield changes nothing, mail and scale
-  mail count as heavy, and the unarmored bonus is lost above 400 cn.
+  +1 and +1, heavy armor -2 and -2.
 
 ## 2026-09-10 - v2.1.1
 
