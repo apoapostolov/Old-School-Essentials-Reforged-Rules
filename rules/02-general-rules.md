@@ -12,6 +12,37 @@ The same principles are applied to "roll under score" skill checks that use skil
 
 > 👁️ If the Party fails a 1-in-6 check, any Thief in the party can treat their class feature percentile skill as a second chance. This check is once again “a luck of the moment” and the value is shared between multiple thieves in the party, where one with a higher level may succeed over one of lower level.
 
+## Saving Throws
+
+A saving throw is a d20 roll against the save value on your class table. A result equal to or higher than that value is a success. The five saves work the same way for every class, and every class feature that names a save refers to one of them.
+
+| Save | Modern name | What it answers |
+| --- | --- | --- |
+| __Death or Poison__ | __Doom__ | Death magic, energy drain, and poison. |
+| __Wands__ | __Resist__ | Attacks made with a magic wand. |
+| __Paralysis or Petrification__ | __Hold__ | Paralysis, such as a ghoul's touch, and petrification, such as a basilisk's gaze. |
+| __Breath Attacks__ | __Avoid__ | A breath weapon, and any other threat you escape by moving out of its way. |
+| __Spells, Rods, Staves__ | __Withstand__ | Spells, and magical effects from rods and staves. |
+
+### Armor and Avoiding Threats
+
+The Avoid save covers a threat you escape with your body, and armor decides how freely you can move. The attempt comes in two scopes, and both use the same save.
+
+- __Whole body:__ You must clear the threat completely. Dive out of the path of a falling portcullis, roll clear of a boulder, or throw yourself flat under a dragon's breath.
+- __Limb:__ One limb or one held item must escape. Pull your hand back from a needle, jerk a boot off a pressure plate, or retract an arm before the jaws close.
+
+Add the modifier below to your Avoid roll only. The other four saves never take an armor modifier.
+
+| Worn armor | Whole body | Limb |
+| --- | --- | --- |
+| __Unarmored__ | +2 | +1 |
+| __Light armor:__ leather, padded, studded leather, hide | +1 | +1 |
+| __Heavy armor:__ mail, scale, ring, banded, plate | -2 | -2 |
+
+- A shield changes nothing here. It is carried, not worn.
+- The light row covers armor that leaves the limbs free. Mail, scale, and ring mail count as heavy under this rule, wherever the encumbrance rules place them.
+- The unarmored bonus is lost above 400 cn of encumbrance, the same limit Unarmored Defence uses in Weapon Mastery.
+
 ## Grogs
 
 Any player character who is a purely a spellcaster (Cleric, Druid, Illusionist, and the Magic User; the DM may approve one for the Gnome as well) may choose to start their career with a grog, a loyal starting hireling sworn to assist and protect them during their early days of adventuring. The grog is typically a 1 HD Level 0 Fighter (or equivalent class-appropriate hireling, such as an animal companion for Druids/Rangers or an apprentice for pure spellcasters like Magic Users or Illusionists, subject to DM approval). The grog's hit dice is rolled normally as for L0 Class character (not maximized like leveled hirelings).

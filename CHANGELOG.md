@@ -3,6 +3,19 @@
 All notable updates to the Old-School Essentials Reforged house rules are
 recorded here.
 
+## 2026-09-25 - v2.2.0
+
+- General Rules: new __Saving Throws__ section at the top of the chapter. It
+  lists the five saves and what each one answers.
+- General Rules: the five saving throws gained a __Modern name__ column
+  (Doom, Resist, Hold, Avoid, Withstand), optional to use. The names map one to
+  one and change nothing mechanical. The Foundry module setting that relabels
+  the sheets is off by default.
+- General Rules: __Armor and Avoiding Threats.__ The Avoid save takes an armor
+  modifier: unarmored +2 for a whole-body escape and +1 to a limb, light armor
+  +1 and +1, heavy armor -2 and -2. A shield changes nothing, mail and scale
+  mail count as heavy, and the unarmored bonus is lost above 400 cn.
+
 ## 2026-09-10 - v2.1.1
 
 - Skills: dropped the leftover *check Rules Cyclopedia pg. 81-86* pointer.

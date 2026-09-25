@@ -6,11 +6,12 @@ _Old-School Essentials Reforged_ is a house-rule framework by Apostol Apostolov 
 
 You need the published OSE rules to use this. The framework targets a 14-level game with accelerated XP (×10 standard progression) so advancement fits a modern play schedule.
 
-## What’s New in 2.1.1
+## What’s New in 2.2.0
 
-- Skills chapter is self-contained. The attribute tables are the full list; the leftover *check Rules Cyclopedia* pointer is gone. Sage Broad Knowledge uses that list.
+- Saving throws now have a home. A section at the top of General Rules lists the five saves, their optional modern names (Doom, Resist, Hold, Avoid, Withstand), and what each one answers. The modern names mirror the Foundry module setting.
+- Armor matters when you dodge. The Avoid save takes a modifier from what you wear: +2 unarmored and +1 in light armor for a whole-body escape, -2 in heavy armor, with a smaller step for pulling back a single limb.
 
-2.1.0 added Withdraw and Ganging Up, and made the racial hit die ignore Constitution. 2.0.1 shipped Wrestling (including Silent Work) and Sage Keen Observation ranks. See the full [changelog](./CHANGELOG.md).
+2.1.1 made the Skills chapter self-contained. 2.1.0 added Withdraw and Ganging Up, and made the racial hit die ignore Constitution. See the full [changelog](./CHANGELOG.md).
 
 ## Highlights
 
