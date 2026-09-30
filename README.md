@@ -1,6 +1,20 @@
-# Old-School Essentials Reforged Rules
+<!-- markdownlint-disable MD033 -->
 
-*House rules for Old-School Essentials and classic B/X that keep lethal exploration intact while filling the gaps long campaigns actually hit.*
+<div align="center">
+
+  <h1>Old-School Essentials Reforged Rules</h1>
+
+  <p>Keep classic B/X exploration sharp while giving long campaigns more room to grow.</p>
+
+  <p>
+    <a href="#readme"><img src="https://img.shields.io/badge/Type-RPG%20rules-555" alt="Type: RPG rules"></a>
+    <a href="#readme"><img src="https://img.shields.io/badge/Format-Markdown-555" alt="Format: Markdown"></a>
+    <a href="https://github.com/apoapostolov/Old-School-Essentials-Reforged-Rules/releases/latest"><img src="https://img.shields.io/github/v/release/apoapostolov/Old-School-Essentials-Reforged-Rules" alt="Latest stable release version"></a>
+    <a href="https://github.com/apoapostolov/Old-School-Essentials-Reforged-Rules/releases/latest"><img src="https://img.shields.io/github/release-date/apoapostolov/Old-School-Essentials-Reforged-Rules?display_date=published_at&amp;label=last%20release" alt="Published date of latest stable release"></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License: MIT"></a>
+  </p>
+
+</div>
 
 _Old-School Essentials Reforged_ is a house-rule framework by Apostol Apostolov for _Old-School Essentials_ (OSE) and classic B/X D&D. It sits on top of the published Advanced Fantasy books. It does not replace them wholesale. The bias is sharper structure, deeper character options, and subsystems that hold up under months of play — without turning B/X into a modern game.
 
