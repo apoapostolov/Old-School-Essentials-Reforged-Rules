@@ -5,18 +5,20 @@ recorded here.
 
 ## 2026-09-25 - v2.2.0
 
-- General Rules: the five saving throws gained a __Modern name__ column
-  (Doom, Resist, Hold, Avoid, Withstand), optional to use. 
-- General Rules: __Armor and Avoiding Threats.__ The Avoid save takes an armor
-  modifier: unarmored +2 for a whole-body escape and +1 to a limb, light armor
-  +1 and +1, heavy armor -2 and -2.
+The five saves are easier to call at the table, and armor now matters when a
+character tries to get out of the way.
+
+- Use optional modern names for the five saves: Doom, Resist, Hold, Avoid,
+  and Withstand. The traditional names remain available.
+- Apply the new armor modifier to Avoid saves. An unarmored character gains
+  +2 for a whole-body escape and +1 for pulling back a limb; light armor gives
+  +1 for either, while heavy armor imposes -2.
 
 ## 2026-09-10 - v2.1.1
 
-- Skills: dropped the leftover *check Rules Cyclopedia pg. 81-86* pointer.
-  The attribute tables in this chapter are the full skill list.
-- Sage Broad Knowledge: bonus lore slots use the Skills chapter, not the
-  Cyclopedia list.
+The Skills chapter now gives you the complete list at the table. The stray
+Rules Cyclopedia reference is gone, and the Sage's Broad Knowledge bonus lore
+slots use the same chapter.
 
 ## 2026-09-10 - v2.1.0
 

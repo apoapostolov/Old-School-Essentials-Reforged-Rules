@@ -6,16 +6,20 @@ _Old-School Essentials Reforged_ is a house-rule framework by Apostol Apostolov 
 
 You need the published OSE rules to use this. The framework targets a 14-level game with accelerated XP (×10 standard progression) so advancement fits a modern play schedule.
 
-## What’s New in 2.2.0
+## Latest rules pass: 2.2.0
 
 - Saving throws now have a home. A section at the top of General Rules lists the five saves, their optional modern names (Doom, Resist, Hold, Avoid, Withstand), and what each one answers. The modern names mirror the Foundry module setting.
 - Armor matters when you dodge. The Avoid save takes a modifier from what you wear: +2 unarmored and +1 in light armor for a whole-body escape, -2 in heavy armor, with a smaller step for pulling back a single limb.
 
-2.1.1 made the Skills chapter self-contained. 2.1.0 added Withdraw and Ganging Up, and made the racial hit die ignore Constitution. See the full [changelog](./CHANGELOG.md).
+The 2.2.0 text is in the current manuscript; the latest GitHub release is
+2.1.1. That release made the Skills chapter self-contained. Earlier 2.1.0
+added Withdraw and Ganging Up and clarified the racial hit die. See the full
+[changelog](./CHANGELOG.md).
 
 ## Highlights
 
-Ordered the way the rules chapters read. These are the systems this edition built out hard.
+Choose the parts your table needs first; the deeper procedures can come in
+when the campaign has room for them.
 
 - **Unified Class Rework.** Basic, demihuman, and advanced classes get targeted fixes instead of one-size patches. Demihumans carry higher ability gates and stronger racial features; advanced classes gain abilities worth picking. Three THAC0 groups (Warrior, Adventurer, Mage) replace per-class attack tables through level 14.
 
